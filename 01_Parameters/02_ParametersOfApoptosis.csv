@@ -1,0 +1,50 @@
+﻿Parameter, Value,Ref.
+k1,1.20E-01,(1)
+k2,3.00E-04,(1)
+k3,2.10E-02,(1)
+k4,1.20E-02,(1)
+k5,1.20E-02,(1)
+k6,3.00E-03,(1)
+k7,2.10E-01,(1)
+k8,1.20E-01,(1)
+k9,6.00E-02,(1)
+k10,6.00E-02,(1)
+k11,6.00E-02,(1)
+k12,6.00E-02,(1)
+k13,1.20E-01,(1)
+k14,1.20E-01,(1)
+k15,1.80E-01,(1)
+k16,6.00E-02,(1)
+k17,6.00E-02,(1)
+k18,6.00E-02,(1)
+k19,6.00E-02,(1)
+k20,6.00E-02,(1)
+k21,6.00E-02,(1)
+k22,6.00E-02,(1)
+k23,6.00E-02,(1)
+k01,6.00E+00,(1)
+k08,6.00E+00,(1)
+k09,6.00E-02,(1)
+k010,6.00E-02,(1)
+k011,6.00E-02,(1)
+k012,6.00E-02,(1)
+k013,6.00E+00,(1)
+k014,6.00E+00,(1)
+k015,6.00E-02,(1)
+k016,1.20E+00,(1)
+k017,1.20E+00,(1)
+k018,2.40E+00,(1)
+k022,1.20E+01,(1)
+k_onCytocE2,1.10E-02,(2)
+K_mCytocE2,4.36E+00,(2)
+k_offCytocE2,5.00E-03,estimated
+k_onC3P4,3.15E-01,(3)
+K_mC3P4,2.25E+01,(3)
+k_offC3P4,1.00E-02,estimated
+,,
+,,
+,,
+References,,
+,(1),"Legewie S, Bluthgen N, Herzel H. Mathematical modeling identifies inhibitors of apoptosis as mediators of positive feedback and bistability. PLoS Comput Biol. 2006;2(9):e120."
+,(2),"Deng Y, Miki Y, Nakanishi A. Estradiol/GPER affects the integrity of mammary duct-like structures in vitro. Sci Rep. 2020;10(1):1386."
+,(3),"Behera MA, Dai Q, Garde R, Saner C, Jungheim E, Price TM. Progesterone stimulates mitochondrial activity with subsequent inhibition of apoptosis in MCF-10A benign breast epithelial cells. Am J Physiol Endocrinol Metab. 2009;297(5):E1089-96."
