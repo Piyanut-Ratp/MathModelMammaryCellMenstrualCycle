@@ -1,49 +1,49 @@
-Parameter	 Value	Ref.
-k_onpERK	1.46E+01	(1)
-tERK 	7.24E+01	(2)
-k_assopERKDUSP	1.00E-02	(2)
-k_disassopERKDUSP	2.28E-03	(2)
-DUSP	1.00E+00	(2)
-k_offpERK	9.56E-02	(2)
-k_onpRSKpERK	1.74E+00	(2)
-K_MphopRSKpERK	9.94E+01	(2)
-k_offpRSKpERK	9.03E-01	(2)
-k_syncfos	6.15E-03	(2)
-K_DFos	1.12E-01	(2)
-k_degcfos	1.48E-02	(2)
-k_syncycDFos	4.50E-03	(2)
-k_degcycD	9.00E-03	(2)
-k_onpRbcycD	2.00E-01	(2)
-k_onpRbcycE	3.00E-01	(2)
-k_offpRb	5.00E-02	(2)
-tRb	5.00E+00	(2)
-k_synE2F	3.00E-02	(2)
-k_synE2FE2F	4.00E-02	(2)
-j_synE2F	2.00E-01	(2)
-k_degE2F	5.00E-02	(2)
-k_assoE2FRb 	5.00E+00	(2)
-k_disassoE2FRB 	5.00E-03	(2)
-k_phopRbcycD	2.00E-01	(2)
-k_phopRbcycE	3.00E-01	(2)
-k_syncycEE2F	1.00E-02	(2)
-k_degcycE	4.00E-03	(2)
-k_assop21cycE	1.00E+00	(2)
-k_disassop21cycE	5.00E-02	(2)
-tp21	1.50E+00	(2)
-k_dep21	2.50E-03	(2)
-k_dep21cy 	7.00E-03	(2)
-skp2	1.00E+00	(2)
-pAkt	1.00E+00	(2)
-k_onrankl	3.90E-01	(3)
-K_mrankl	1.63E+02	(3)
-k_offrankl	6.00E-02	estimated
-k_oncycDrank 	1.68E+01	(4)
-K_mcycDrank 	7.44E+00	(4)
-k_offcycDrank	6.00E-02	estimated
-		
-		
-References		
-(1)	"Scaling AL, Prossnitz ER, Hathaway HJ. GPER mediates estrogen-induced signaling and proliferation in human breast epithelial cells and normal and malignant breast. Horm Cancer. 2014;5(3):146-60."	
-(2)	"Imoto H, Okada M. Signal-dependent regulation of early-response genes and cell cycle: a quantitative view. Current Opinion in Systems Biology. 2019;15:100-8."	
-(3)	"Wang J, Gupta A, Hu H, Chatterton RT, Clevenger CV, Khan SA. Comment on &#x201c;Progesterone/RANKL Is a Major Regulatory Axis in the Human Breast&#x201d. Science Translational Medicine. 2013;5(215):215le4-le4."	
-(4)	"Tanos T, Sflomos G, Echeverria PC, Ayyanan A, Gutierrez M, Delaloye JF, et al. Progesterone/RANKL is a major regulatory axis in the human breast. Sci Transl Med. 2013;5(182):182ra55."	
+﻿Parameter, Value,Ref.
+k_onpERK,1.46E+01,(1)
+tERK ,7.24E+01,(2)
+k_assopERKDUSP,1.00E-02,(2)
+k_disassopERKDUSP,2.28E-03,(2)
+DUSP,1.00E+00,(2)
+k_offpERK,9.56E-02,(2)
+k_onpRSKpERK,1.74E+00,(2)
+K_MphopRSKpERK,9.94E+01,(2)
+k_offpRSKpERK,9.03E-01,(2)
+k_syncfos,6.15E-03,(2)
+K_DFos,1.12E-01,(2)
+k_degcfos,1.48E-02,(2)
+k_syncycDFos,4.50E-03,(2)
+k_degcycD,9.00E-03,(2)
+k_onpRbcycD,2.00E-01,(2)
+k_onpRbcycE,3.00E-01,(2)
+k_offpRb,5.00E-02,(2)
+tRb,5.00E+00,(2)
+k_synE2F,3.00E-02,(2)
+k_synE2FE2F,4.00E-02,(2)
+j_synE2F,2.00E-01,(2)
+k_degE2F,5.00E-02,(2)
+k_assoE2FRb ,5.00E+00,(2)
+k_disassoE2FRB ,5.00E-03,(2)
+k_phopRbcycD,2.00E-01,(2)
+k_phopRbcycE,3.00E-01,(2)
+k_syncycEE2F,1.00E-02,(2)
+k_degcycE,4.00E-03,(2)
+k_assop21cycE,1.00E+00,(2)
+k_disassop21cycE,5.00E-02,(2)
+tp21,1.50E+00,(2)
+k_dep21,2.50E-03,(2)
+k_dep21cy ,7.00E-03,(2)
+skp2,1.00E+00,(2)
+pAkt,1.00E+00,(2)
+k_onrankl,3.90E-01,(3)
+K_mrankl,1.63E+02,(3)
+k_offrankl,6.00E-02,estimated
+k_oncycDrank ,1.68E+01,(4)
+K_mcycDrank ,7.44E+00,(4)
+k_offcycDrank,6.00E-02,estimated
+,,
+,,
+References,,
+(1),"Scaling AL, Prossnitz ER, Hathaway HJ. GPER mediates estrogen-induced signaling and proliferation in human breast epithelial cells and normal and malignant breast. Horm Cancer. 2014;5(3):146-60.",
+(2),"Imoto H, Okada M. Signal-dependent regulation of early-response genes and cell cycle: a quantitative view. Current Opinion in Systems Biology. 2019;15:100-8.",
+(3),"Wang J, Gupta A, Hu H, Chatterton RT, Clevenger CV, Khan SA. Comment on &#x201c;Progesterone/RANKL Is a Major Regulatory Axis in the Human Breast&#x201d. Science Translational Medicine. 2013;5(215):215le4-le4.",
+(4),"Tanos T, Sflomos G, Echeverria PC, Ayyanan A, Gutierrez M, Delaloye JF, et al. Progesterone/RANKL is a major regulatory axis in the human breast. Sci Transl Med. 2013;5(182):182ra55.",
